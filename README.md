@@ -35,7 +35,7 @@ These visualizations allow users to quickly understand key patterns in anime pro
 
 ## 📷 Dashboard Preview
 
-![Anime Dashboard]()
+![Anime Dashboard](https://github.com/Diksha135/anime-industry-powerbi-dashboard/blob/main/Screenshot%202026-03-14%20141145.png)
 ---
 
 ## 📂 Dataset
